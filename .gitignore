@@ -6,11 +6,6 @@
 *.beam
 *.dll
 
-build/*
-Build/*
-debug/*
-Debug/*
-
 Target/
 Cargo.lock
 **/*.rs.bk
