@@ -1,7 +1,7 @@
-#include <unordered_set>
 #ifndef MAZE_HPP
 #define MAZE_HPP
 
+#include <unordered_set>
 #include <memory>
 #include <random>
 #include <algorithm>
