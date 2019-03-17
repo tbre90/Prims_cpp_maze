@@ -257,7 +257,7 @@ init(SDL_Window **window, SDL_Surface **window_surface)
     }
     else
     {
-        *window = SDL_CreateWindow("Hello World!", 100, 100,  SCREEN_WIDTH, SCREEN_HEIGHT, 0);
+        *window = SDL_CreateWindow("Maze", 100, 100,  SCREEN_WIDTH, SCREEN_HEIGHT, 0);
         if (!(*window))
         {
             SDL_Quit();
